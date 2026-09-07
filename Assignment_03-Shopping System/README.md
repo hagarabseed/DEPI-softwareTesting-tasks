@@ -35,8 +35,7 @@ The design comprises **four core classes** as required by the assignment specifi
 ## Author
 Hagar Mahmoud Ahmed
 
-* **Track:**
- * Software Testing Track (DEPI)
+* **Track:** Software Testing Track (DEPI)
 
-* **Instructor:**
- * Dr. Mina Younan
+* **Instructor:** Dr. Mina Younan
+    
