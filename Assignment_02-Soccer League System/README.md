@@ -31,7 +31,7 @@ The design comprises **five core domain classes** and an enumerated type as requ
   * Employs `java.util.Collections.sort` with custom `Comparator` implementations to rank teams primarily by accumulated points and secondarily by goal counts.
 * **Encapsulation & Architecture**:
   * Fully encapsulated domain model with private fields accessible via standard getters and setters.
-  * Maven-compliant multi-package folder structure (`com.league`).
+  * Maven-compliant multi-package folder structure (`com.example`).
 
 ---
 
