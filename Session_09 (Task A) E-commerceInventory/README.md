@@ -103,7 +103,3 @@ Hagar Mahmoud Ahmed
 
 * **Track:** Software Testing Track (DEPI)
 * **Instructor:** Dr. Mina Younan
-
-```
-
-```
